@@ -20,7 +20,9 @@
 !experiment-9/**
 
 !Testing/
-!Teating/**
+!Testing/**
+!.github/
+!.github/**
 !Backend-2/
 !Backend-2/**
 # Allow gitignore
