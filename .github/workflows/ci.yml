@@ -46,7 +46,10 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: npm install
-
+        run: npm ci
+        
+      - name: Fix permissions
+        run: chmod +x node_modules/.bin/vitest
+        
       - name: Run frontend tests
-        run: npm test
+        run: npx vitest run
