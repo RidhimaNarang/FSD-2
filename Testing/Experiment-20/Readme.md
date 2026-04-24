@@ -110,10 +110,6 @@ This experiment helped in understanding:
 
 ---
 
-## 🔗 Repository Link
 
-👉 https://github.com/kumudgoyal/FSD-2
-
----
 
 
