@@ -1,4 +1,4 @@
-# 🚀 Experiment-16: CI/CD Pipeline Integration with Docker
+# 🚀 Experiment-20: CI/CD Pipeline Integration with Docker
 
 ## 📌 Objective
 
@@ -116,6 +116,4 @@ This experiment helped in understanding:
 
 ---
 
-## 🙌 Author
 
-**Kumud Goyal**
